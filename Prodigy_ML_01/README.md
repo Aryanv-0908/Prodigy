@@ -3,7 +3,7 @@ Implement a linear regression model to predict the prices of houses based on the
 
 Data used: https://lnkd.in/gMK5vaw2
 
-# ask Highlights:
+# Task Highlights:
 1. Implemented a linear regression model to predict house prices based on square footage, number of bedrooms, and number of bathrooms.
 2. Utilized a dataset of housing information to train and test the model
 3. Analyzed the relationships between the independent variables (square footage, bedrooms, and bathrooms) and the dependent variable (house price)
