@@ -11,17 +11,17 @@ https://www.kaggle.com/c/dogs-vs-cats/data
 4. Achieved a high degree of accuracy in classifying images of cats and dogs.
 
 # What I learned:
-    # 1. Importance of data preprocessing: 
+    1. Importance of data preprocessing: 
     I learned that preprocessing the image data is crucial for training an accurate SVM model. This includes resizing images, normalizing pixel values, and extracting relevant features.
-    # 2. SVM hyperparameter tuning: 
+    2. SVM hyperparameter tuning: 
     I gained experience in tuning the hyperparameters of the SVM algorithm, such as the kernel type, regularization parameter, and gamma value, to optimize its performance.
-    # 3. Feature engineering for image data: 
+    3. Feature engineering for image data: 
     I learned how to extract relevant features from image data, such as texture, shape, and color, to improve the accuracy of the SVM model.
-    # 4. Handling high-dimensional data: 
+    4. Handling high-dimensional data: 
     I learned how to handle high-dimensional image data using techniques such as dimensionality reduction and feature selection.
-    #5. Evaluation metrics for image classification: 
+    5. Evaluation metrics for image classification: 
     I learned how to evaluate the performance of the SVM model using metrics such as accuracy, precision, recall, and F1-score.
-    # 6. Practical application of machine learning concepts: 
+    6. Practical application of machine learning concepts: 
     I gained hands-on experience in applying machine learning concepts, such as supervised learning, classification, and model evaluation, to a real-world problem.
 
 # Key Takeaways:
